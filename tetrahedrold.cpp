@@ -51,7 +51,7 @@ int main(int argc, char *argv[])
 	glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE);
 	glutInitWindowPosition(100, 100);
 	glutInitWindowSize(400, 400);
-	glutCreateWindow("opengl1");
+	glutCreateWindow("OpenGl四面体");
 	glutDisplayFunc(display);
 	glutMainLoop();
 	return 0;
